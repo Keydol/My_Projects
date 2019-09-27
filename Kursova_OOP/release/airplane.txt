@@ -1,0 +1,3 @@
+3 Mitsubishi-MRJ 247 2000 800 
+2 Airbus-A330 300 1500 999 
+1 Boieng-41 150 1000 900 

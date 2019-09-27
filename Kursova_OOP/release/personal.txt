@@ -1,0 +1,9 @@
+9 Diana Kust 30/12/1995 RU124563 Stuardesa 2 12000 
+8 Irina Grechkina 02/03/1996 RU432456 Stuardesa 2 10000 
+7 Bob Marley 05/01/1976 RA61232 Pilot 2 25000 
+6 Adam Husein 01/01/1981 AH43213 Pilot 2 25000 
+5 Tania Kozlovska 19/11/2000 JK1219 Komandir 1 28500 
+4 Lubomir Rakuta 03/06/1982 Rl43213 Pilot 1 25000 
+3 Yana Paliychuk 18/01/1995 UK54313 Stuardesa 1 11000 
+2 Nadia Bilanuk 14/01/1992 UK3213 Stuardesa 1 10000 
+1 Lina Sayko 30/07/2001 KOREY31 Pilot 1 25000 
